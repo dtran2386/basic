@@ -1,19 +1,65 @@
 h1 {
-    color:aqua;
+    color: lightslategrey;
     font-family: cursive;
+    font-size: 65px;
+    text-align: center;
 }
+<<<<<<< HEAD
+=======
+
+<<<<<<< HEAD
+header li {
+    text-align: center;
+    text-decoration: none;
+    margin: 2% 0;
+}
+=======
+>>>>>>> 17b0a029e365f9f7dca9e91c7225ea1586b16a13
 header li{ 
     list-style-type: none;
     background-color: navajowhite;
+>>>>>>> 479e5ffd4f2793ed8f4bc469f111bb34b4e52f72
 
 }
 
 body { 
-    background-color: beige;
+    background-color: cornflowerblue;
     
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 17b0a029e365f9f7dca9e91c7225ea1586b16a13
 p {
     font-size: 4em;
     font-color: blue;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+div li {
+    background-color: lavender;
+    color: purple;
+    font-size: 50px;
+}
+
+.dylan {
+    color:darkgoldenrod;
+    text-align: justify;
+    margin; 3% 0;
+}
+
+div h2 {
+    color:darkred;
+    font-size: 55px;
+    font-family: sans-serif;
+    text-align: center;
+}
+=======
+img {
+    hieght: 10%
+    width: 10%
+}
+>>>>>>> 479e5ffd4f2793ed8f4bc469f111bb34b4e52f72
+>>>>>>> 17b0a029e365f9f7dca9e91c7225ea1586b16a13

@@ -2,3 +2,14 @@ h1 {
     color:aqua;
     font-family: cursive;
 }
+
+header li{ 
+    list-style-type: none;
+    background-color: navajowhite;
+
+}
+
+body { 
+    background-color: beige;
+    
+}

@@ -14,11 +14,10 @@ header li {
 header li{ 
     list-style-type: none;
     background-color: navajowhite;
-
 }
 
-body { 
-    background-color: cornflowerblue;
+.desaturate {
+    filter: greyscale(100%);
     
 }
 
@@ -26,16 +25,11 @@ p {
     font-size: 4em;
     font-color: blue
 }
-div li {
-    background-color: lavender;
-    color: purple;
-    font-size: 50px;
-}
 
 .dylan {
     color:darkgoldenrod;
     text-align: justify;
-    margin; 3% 0;
+    margin: 3% 0;
 }
 
 div h2 {
@@ -45,6 +39,7 @@ div h2 {
     text-align: center;
 }
 img {
-    hieght: 10%
-    width: 10%
+    height: 40%;
+    width: 40%;
 }
+

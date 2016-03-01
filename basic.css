@@ -16,14 +16,9 @@ header li{
     background-color: navajowhite;
 }
 
-.desaturate {
-    filter: greyscale(100%);
-    
-}
-
 p {
     font-size: 4em;
-    font-color: blue
+    font-color: blue;
 }
 
 .dylan {

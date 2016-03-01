@@ -7,3 +7,9 @@ p {
     font-size: 4em;
     font-color: blue;
 }
+
+div li {
+    background-color: lavender;
+    color: purple;
+    font-size: 50px;
+}

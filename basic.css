@@ -3,7 +3,6 @@ h1 {
     font-family: cursive;
 }
 
-<<<<<<< HEAD
 header li{ 
     list-style-type: none;
     background-color: navajowhite;
@@ -14,9 +13,13 @@ body {
     background-color: beige;
     
 }
-=======
+
 p {
     font-size: 4em;
     font-color: blue;
 }
->>>>>>> f74bcce1ecb7a7c917be0ade607c5e465a43c490
+
+img {
+    hieght: 10%
+    width: 10%
+}

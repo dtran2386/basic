@@ -2,3 +2,8 @@ h1 {
     color:aqua;
     font-family: cursive;
 }
+
+p {
+    font-size: 4em;
+    font-color: blue;
+}

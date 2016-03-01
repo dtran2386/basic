@@ -5,11 +5,17 @@ h1 {
     text-align: center;
 }
 
+<<<<<<< HEAD
 header li {
     text-align: center;
     text-decoration: none;
     margin: 2% 0;
 }
+=======
+header li{ 
+    list-style-type: none;
+    background-color: navajowhite;
+>>>>>>> 479e5ffd4f2793ed8f4bc469f111bb34b4e52f72
 
 }
 
@@ -23,6 +29,7 @@ p {
     font-color: blue;
 }
 
+<<<<<<< HEAD
 div li {
     background-color: lavender;
     color: purple;
@@ -41,3 +48,9 @@ div h2 {
     font-family: sans-serif;
     text-align: center;
 }
+=======
+img {
+    hieght: 10%
+    width: 10%
+}
+>>>>>>> 479e5ffd4f2793ed8f4bc469f111bb34b4e52f72
